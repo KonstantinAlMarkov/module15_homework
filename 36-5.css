@@ -1,0 +1,22 @@
+#chatMessages{
+    list-style-type: none;    
+}
+
+#response{
+    margin-top: 4px;
+    color:blue;
+    text-align: left;
+}
+
+#error{
+    margin-top: 4px
+    text-color:red;
+    text-align: right;
+}
+
+#request{
+    margin-top: 4px
+    text-align: right;
+}
+
+
